@@ -39,7 +39,7 @@ except Exception:
 
 setup(
     name='remoteobjects',
-    version='1.1.1.moz2',
+    version='1.1.1.moz3',
     description='an Object RESTational Model',
     author='Six Apart Ltd.',
     author_email='python@sixapart.com',
